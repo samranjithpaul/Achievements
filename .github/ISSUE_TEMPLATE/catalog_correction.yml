@@ -1,0 +1,24 @@
+name: Catalog correction
+description: Report an outdated, ambiguous, or incorrect achievement entry
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Achievement and field
+      placeholder: "Example: Galaxy Brain availability"
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposed correction
+      description: Include what the catalog says now and what should change.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Public evidence
+      description: Link to the source and explain precisely what it confirms.
+    validations:
+      required: true
