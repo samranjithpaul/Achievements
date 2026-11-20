@@ -1,0 +1,181 @@
+[
+  {
+    "id": "pull-shark",
+    "name": "Pull Shark",
+    "status": "active",
+    "activity": "Merged pull requests that you authored",
+    "thresholds": {
+      "base": 2,
+      "bronze": 16,
+      "silver": 128,
+      "gold": 1024
+    },
+    "note": "The upgraded thresholds come from community observations.",
+    "sources": [
+      "https://github.com/orgs/community/discussions/18153",
+      "https://github.com/christianalberto/github-profile-achievements"
+    ]
+  },
+  {
+    "id": "pair-extraordinaire",
+    "name": "Pair Extraordinaire",
+    "status": "active",
+    "activity": "Merged pull requests containing a commit you genuinely co-authored",
+    "thresholds": {
+      "base": 1,
+      "bronze": 10,
+      "silver": 24,
+      "gold": 48
+    },
+    "note": "Use a GitHub-linked email in the commit trailer. The upgraded thresholds come from community observations.",
+    "sources": [
+      "https://github.com/orgs/community/discussions/18153",
+      "https://docs.github.com/en/pull-requests/how-tos/commit-changes/creating-a-commit-with-multiple-authors",
+      "https://github.com/christianalberto/github-profile-achievements"
+    ]
+  },
+  {
+    "id": "galaxy-brain",
+    "name": "Galaxy Brain",
+    "status": "active",
+    "activity": "Answers accepted in eligible GitHub Discussions",
+    "thresholds": {
+      "base": 2,
+      "bronze": 8,
+      "silver": 16,
+      "gold": 32
+    },
+    "note": "The GitHub Community forum is excluded. The upgraded thresholds come from community observations.",
+    "sources": [
+      "https://github.com/orgs/community/discussions/18153",
+      "https://github.com/orgs/community/discussions/176355",
+      "https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion",
+      "https://github.com/christianalberto/github-profile-achievements"
+    ]
+  },
+  {
+    "id": "starstruck",
+    "name": "Starstruck",
+    "status": "active",
+    "activity": "Stars received on one repository you created",
+    "thresholds": {
+      "base": 16,
+      "bronze": 128,
+      "silver": 512,
+      "gold": 4096
+    },
+    "note": "The upgraded thresholds come from community observations.",
+    "sources": [
+      "https://github.com/orgs/community/discussions/18153",
+      "https://github.com/christianalberto/github-profile-achievements"
+    ]
+  },
+  {
+    "id": "quickdraw",
+    "name": "Quickdraw",
+    "status": "active",
+    "activity": "An issue or pull request closed within five minutes of opening",
+    "thresholds": {
+      "base": 1
+    },
+    "note": "GitHub's announcement thread discusses the time window. The linked public example credits an issue.",
+    "sources": [
+      "https://github.com/orgs/community/discussions/18153",
+      "https://github.com/samranjithpaul?tab=achievements&achievement=quickdraw",
+      "https://github.com/christianalberto/github-profile-achievements"
+    ]
+  },
+  {
+    "id": "yolo",
+    "name": "YOLO",
+    "status": "active",
+    "activity": "A pull request you merged without code review",
+    "thresholds": {
+      "base": 1
+    },
+    "note": "Keep required reviews in place. A qualifying event can occur in a solo project where review is optional.",
+    "sources": [
+      "https://github.com/orgs/community/discussions/18153",
+      "https://github.com/christianalberto/github-profile-achievements"
+    ]
+  },
+  {
+    "id": "public-sponsor",
+    "name": "Public Sponsor",
+    "status": "active",
+    "activity": "Public sponsorship through GitHub Sponsors",
+    "thresholds": {
+      "base": 1
+    },
+    "note": "The GitHub Docs explain sponsorship visibility options.",
+    "sources": [
+      "https://github.com/orgs/community/discussions/18153",
+      "https://docs.github.com/en/sponsors/sponsoring-open-source-contributors/sponsoring-an-open-source-contributor-through-github",
+      "https://github.com/christianalberto/github-profile-achievements"
+    ]
+  },
+  {
+    "id": "finishing-touch",
+    "name": "Finishing Touch",
+    "status": "limited",
+    "activity": "Merged pull requests GitHub recognizes as improving its own interface",
+    "thresholds": {
+      "base": 1,
+      "bronze": 4,
+      "silver": 16,
+      "gold": 32
+    },
+    "note": "Availability for outside contributors and thresholds are community-reported. Eligibility rules are unpublished.",
+    "sources": [
+      "https://github.com/christianalberto/github-profile-achievements"
+    ]
+  },
+  {
+    "id": "heart-on-your-sleeve",
+    "name": "Heart On Your Sleeve",
+    "status": "experimental",
+    "activity": "Public criteria unavailable",
+    "thresholds": {},
+    "note": "GitHub staff reported that the experimental rollout was taken down.",
+    "sources": [
+      "https://github.com/orgs/community/discussions/190842",
+      "https://github.com/christianalberto/github-profile-achievements"
+    ]
+  },
+  {
+    "id": "open-sourcerer",
+    "name": "Open Sourcerer",
+    "status": "experimental",
+    "activity": "Public criteria unavailable",
+    "thresholds": {},
+    "note": "GitHub staff reported that the experimental rollout was taken down.",
+    "sources": [
+      "https://github.com/orgs/community/discussions/190842",
+      "https://github.com/christianalberto/github-profile-achievements"
+    ]
+  },
+  {
+    "id": "arctic-code-vault-contributor",
+    "name": "Arctic Code Vault Contributor",
+    "status": "historical",
+    "activity": "Code in repositories included in the 2020 GitHub Archive Program snapshot",
+    "thresholds": {},
+    "note": "The qualifying snapshot has already taken place.",
+    "sources": [
+      "https://github.blog/news-insights/company-news/github-archive-program-the-journey-of-the-worlds-open-source-code-to-the-arctic/",
+      "https://github.com/christianalberto/github-profile-achievements"
+    ]
+  },
+  {
+    "id": "mars-2020-contributor",
+    "name": "Mars 2020 Contributor",
+    "status": "historical",
+    "activity": "Code in qualifying repositories used by the Mars 2020 helicopter mission",
+    "thresholds": {},
+    "note": "The award was tied to a past mission.",
+    "sources": [
+      "https://github.blog/news-insights/company-news/open-source-goes-to-mars/",
+      "https://github.com/christianalberto/github-profile-achievements"
+    ]
+  }
+]
